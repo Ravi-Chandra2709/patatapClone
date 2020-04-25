@@ -1,0 +1,15 @@
+h1
+{
+	color: #eee;
+}
+canvas
+{
+	width: 100%;
+	vertical-align: auto;
+}
+body
+{
+	height: 100%;
+	margin : 0;
+	background: black;
+}
